@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeeBetter</string>
+    <string name="login_btn_email">entre com email</string>
+    <string name="login_btn_facebook">entre com Facebook</string>
+    <string name="login_btn_google">entre com Google</string>
+    <string name="home_description">ser melhor para si e para o meio ambiente e ainda ganhar recompesas</string>
+    <string name="home_btn">começar</string>
+</resources>
