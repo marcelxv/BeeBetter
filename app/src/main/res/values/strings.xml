@@ -5,4 +5,5 @@
     <string name="login_btn_google">entre com Google</string>
     <string name="home_description">ser melhor para si e para o meio ambiente e ainda ganhar recompesas</string>
     <string name="home_btn">começar</string>
+    <string name="choose_beecoins">escolha uma atividade \n para começar a ganhar BeeCoins!</string>
 </resources>
